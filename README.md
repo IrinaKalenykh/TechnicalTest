@@ -2,8 +2,8 @@
 
 ## Overview
 This is a C# application that provides solutions for two algorithmic tasks:
-    Problem 1: Check for Balanced Brackets in an expression
-    Problem 2: Single Number Search
+- Problem 1: Check for Balanced Brackets in an expression
+- Problem 2: Single Number Search
 
 
 ## Prerequisites
